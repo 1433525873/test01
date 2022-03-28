@@ -13,6 +13,4 @@ public class Student {
         this.age = age;
         this.address = address;
     }
-
-
 }
